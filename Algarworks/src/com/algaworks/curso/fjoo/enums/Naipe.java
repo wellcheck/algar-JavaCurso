@@ -2,6 +2,8 @@ package com.algaworks.curso.fjoo.enums;
 
 public enum Naipe {
 	
+	// Somente esses 4 valores definidos.
+	
 	OURO("Vermelho"),
 	PAUS("Preto"),
 	ESPADA("Preto"),
