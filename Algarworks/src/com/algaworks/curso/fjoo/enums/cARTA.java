@@ -9,4 +9,8 @@ public class cARTA {
 		this.numero = numero;
 		this.naipe = naipe;
 	}
+	
+	public void imprimirCarta() {
+		System.out.println("Sou o " + numero + " de " + naipe + " e tenho a cor " + naipe.getCor());
+	}
 }
