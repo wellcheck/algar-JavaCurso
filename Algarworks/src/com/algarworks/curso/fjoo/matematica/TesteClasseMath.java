@@ -23,7 +23,7 @@ public class TesteClasseMath {
 		double n = 5.68;
 		System.out.println("O menor numero: " + Math.floor(n));
 		System.out.println("O maior numero: " + Math.ceil(n));
-		System.out.println("Round: " + Math.round(n));
+		System.out.println("Round: " + Math.round(n)); //Arredonda automaticamente
 
 	}
 
